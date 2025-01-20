@@ -1,0 +1,1 @@
+This repository contains a simple C program that demonstrates an integer overflow bug. The program adds 1 to a large integer value, which could cause an overflow. The solution shows how to prevent this type of bug.
